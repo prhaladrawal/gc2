@@ -1,0 +1,146 @@
+html,body{
+    color: #fff;
+      overflow-x: hidden;
+      font-family: 'Ropa Sans', sans-serif;
+}
+
+#title h1{ color: #0d334d;
+  font-size: 3rem;
+  text-align: left;
+  padding-top: 4%;
+  padding-left: 4%;
+  padding-bottom:200px;
+  font-family: 'Andada Pro', serif;
+}
+
+#title .nav-link{
+  font-size: 1.4rem;
+}
+.logo{
+    font-size: 2.9rem;
+}
+.membe{
+  text-align: center;
+
+}
+.buttons{
+  text-align: center;
+  padding:40px;
+}
+
+#title h2{
+  text-align: left;
+padding: 0 4%;
+}
+#title .nav-item{
+  margin:3px;
+  font-size: 1.2rem;
+}
+#title .collapse{
+  padding: 1%;
+}
+#title .navbar-nav{
+  padding-right: 47px;
+}
+#title .navbar-brand{
+  padding-left: 3%;
+}
+.first-page{
+  background-color:#4ec6d9;
+
+}
+
+.images{
+  padding-top: 50px;
+  max-width: 120px;
+  height: auto;
+}
+.crd{
+  text-align: center;
+
+}
+.crd h2{
+  padding:50px 5%;
+  font-size: 1.2rem;
+
+}
+#features{
+  background-color:#a4c9d8;
+}
+#features h2{
+  font-size: 1.2rem;
+  color: black;
+}
+
+/* #explaination{
+  background-color: #fff;
+}
+.vdo{
+  padding: 10% 3%;
+}
+.txt{
+  padding-top: 15%;
+} */
+#goals{
+background-color:#4ec6d9;
+    text-align:center;
+}
+.item{
+  padding: 5%;
+}
+.block h3{
+text-align: center;
+font-size: 1.1rem;
+padding:2% 15% 0;
+}
+.c-img{
+  max-width: 40%;
+  max-height: 40%;
+}
+#goals h1{
+  padding:10px;
+  padding-top: 7%;
+  font-family: 'Comfortaa', cursive;
+  color: #0d334d;
+  font-size: 2.5rem}
+#team{
+    background-color:#a4c9d8;
+    text-align: center;
+    padding: 5px;
+color: black;
+}
+.team-pic{
+  padding: 10px;
+border-radius: 50%;
+max-width: 150px;
+height: 150px;
+}
+#team h2{
+  font-size: 0.9rem;
+  color: black;
+}
+
+.member{
+  padding:3% 2%;
+}
+#team h1{
+  padding: 5% 0 2%;
+font-family: 'Comfortaa', cursive;
+  font-size: 2.5rem;
+}
+.npl{
+  margin-top: 15px;
+}
+#contact{
+  text-align: center;
+background-color:#4ec6d9;
+    padding: 60px 0 25px;
+}
+#contact p{
+  padding: 40px 0 0;
+  color: black;
+  font-size: 0.8rem;
+}
+#contact i{
+  padding: 5px;
+}
